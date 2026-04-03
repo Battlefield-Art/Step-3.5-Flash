@@ -5,7 +5,7 @@ base_model:
 --- -->
 
 <div align="center"> 
-  <h1 style="margin: 0; border-bottom: none;"> <img src="assets/stepfun.svg" width="25" style="margin-right: 10px;"/>  Step 3.5 Flash</h1>
+  <h1 style="margin: 0; border-bottom: none;"> <img src="assets/stepfun-1.png" width="20" style="margin-right: 10px;"/>  Step 3.5 Flash</h1>
 </div>
 
 <p align="center">
